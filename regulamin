@@ -1,6 +1,18 @@
 
 <!DOCTYPE html>
 <html lang="pl">
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Regulamin</title>
+</head>
+<body>
+  <h1>Regulamin</h1>
+  <p>To jest przykładowy regulamin Twojej strony.</p>
+  <a href="index.html">Powrót</a>
+</body>
+</html>
 
 
 <!-- Mirrored from HorizonGG.eu/rules.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 16 Feb 2025 15:22:01 GMT -->

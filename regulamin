@@ -52,7 +52,7 @@
                 <li><a href="WKRÓTCE DOSTĘPNE">Połącz sie wkrótce</a></li>
                 <li><a href="https://discord.gg/FtVwzFpem7">Discord</a></li>
                 <li>
-                    <a href="rules.html" style="color: var(--color-one); cursor: default; font-weight: 500; font-weight: bold; text-decoration: underline;">
+                    <a href="Regulamin.html" style="color: var(--color-one); cursor: default; font-weight: 500; font-weight: bold; text-decoration: underline;">
                         Regulamin                    </a>
                 </li>
             </ul>
